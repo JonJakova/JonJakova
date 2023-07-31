@@ -1,6 +1,6 @@
 - Hi, I’m @JonJakova 👋
 - I’m pationate about technology!
-- I’m currently working as the CTO of Sabanet Albania
+- I’m currently working as a Software Engineer at Currant s.r.l
 - You can contact me through my email 📫 **jon.jakova@gmail.com**
 
 <!---
